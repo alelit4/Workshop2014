@@ -320,6 +320,19 @@ code {
 }
 
 
+#problems2 h2 {
+    font-size: 50px;
+}
+
+#problems2 h2 span{
+    padding-left: 5px;
+    padding-right: 5px; 
+    background-color: #EAB845;
+    border-radius: 5px;
+    text-align: left;
+    color: #f5f5f5;
+}
+
 
 
 
@@ -508,6 +521,11 @@ code {
     font-size: 60px;
 }
 
+#start h3{
+    font-size: 40px;
+}
+
+
 #start h2 span{
     padding-left: 5px;
     padding-right: 5px; 
@@ -516,6 +534,73 @@ code {
     text-align: center;
     color: #f5f5f5;
 }
+
+#start2 h1 span{
+   padding-left: 5px;
+    padding-right: 5px; 
+    background-color: #EAB845;
+    border-radius: 5px;
+    text-align: center;
+    color: #f5f5f5;
+}
+
+.black h3 span{
+    padding-left: 23px;
+    padding-right: 23px; 
+    background-color: #333;
+    border-radius: 5px;
+    text-align: center;
+    color: #f5f5f5;
+}
+
+.black h3 {
+    font-size: 40px;
+
+}
+
+.red h3 span{
+    padding-left: 35px;
+    padding-right: 35px; 
+    background-color: #e23111;
+    border-radius: 5px;
+    text-align: center;
+    color: #f5f5f5;
+}
+
+.red h3 {
+    font-size: 40px;
+}
+
+
+.yellow h3 span{
+    padding-left: 15px;
+    padding-right: 15px; 
+    background-color: #e2cc11;
+    border-radius: 5px;
+    text-align: center;
+    color: #f5f5f5;
+}
+
+.yellow h3 {
+    font-size: 40px;
+}
+
+
+.green h3 span{
+    padding-left: 17px;
+    padding-right: 17px; 
+    background-color: #92aa11;
+    border-radius: 5px;
+    text-align: center;
+    color: #f5f5f5;
+}
+
+.green h3 {
+    font-size: 40px;
+}
+
+
+
 
 #nfc {
      text-align: center;
